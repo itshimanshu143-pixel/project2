@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Himanshu Chaudhary
+Created by Himanshu Chaudhary.
